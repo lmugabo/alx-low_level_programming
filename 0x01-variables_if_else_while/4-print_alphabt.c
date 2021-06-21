@@ -1,8 +1,8 @@
 #include <stdio.h>
  /**
   * main - Entry point
-  *description - print all letters of the alphabet execpt q & e
-  *Return: Always 0 (Success)
+  * description - print all letters of the alphabet execpt q & e
+  * Return: Always 0 (Success)
   */
 int main(void)
 {
