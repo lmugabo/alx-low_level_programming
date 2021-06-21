@@ -1,7 +1,7 @@
 #include <stdio.h>
  /**
   * main - Entry point
-  * execpt q & e
+  *description - print all letters of the alphabet execpt q & e
   *Return: Always 0 (Success)
   */
 int main(void)
