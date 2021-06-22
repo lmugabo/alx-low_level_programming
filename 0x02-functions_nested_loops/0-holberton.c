@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <holberton.h>
 /**
  *main-printing using putchar
  *
@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-char c[9]={'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n'};
+char holberton[9]={'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n'};
 unsigned int a;
-for (a=0 ;a<= sizeof c;a++)
+for (a=0 ;a<= sizeof holberton;a++)
 _putchar(holberton[c]);
 
 _putchar('\n');
