@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * 9 times_table - entry point
+ *main - 9 times_table - entry point
  * times table
  * Return: Void
  */

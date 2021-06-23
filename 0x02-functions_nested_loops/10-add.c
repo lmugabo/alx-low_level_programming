@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- * add two numbers
+ * main - add two numbers and return their sum
  *
- *Return : sum of two numbers
+ *Return : Always 0 
  */
 int add(int a, int b)
 {
