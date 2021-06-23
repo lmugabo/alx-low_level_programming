@@ -1,12 +1,10 @@
 #include "holberton.h"
 /**
- * print_last_digit - function that computes the absolute value of an integer
- * @c:  is the int that will use for the argument of the function
- * Return: 0
+ * print_last_digit - entry point
+ * @c: number to  check
+ * Return: Always 0 (Success)
  */
 int print_last_digit(int c)
-{
-if (c > 0 || c == 0)
 {
 c %= 10;
 if (c < 0)
