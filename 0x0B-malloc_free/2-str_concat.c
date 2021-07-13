@@ -29,5 +29,5 @@ b++;
 c++;
 }
 return (my_array);
-free(my_array);
 }
+
