@@ -1,5 +1,6 @@
 #ifndef V_FUNCTION_H_FILE
 #define V_FUNCTION_H_FILE
+#include <stdarg.h>
 typedef struct datatype
 {
 char *character;
