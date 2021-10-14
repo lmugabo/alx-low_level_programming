@@ -1,4 +1,5 @@
 #include "hash_tables.h"
+#include <stdio.h>
 /**
  * key_index - function that gives you the index of a key.
  * @key: string to pass through djb2 algorithm.
